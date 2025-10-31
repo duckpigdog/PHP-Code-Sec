@@ -2,8 +2,9 @@
 
 一个覆盖常见 PHP 代码审计知识点的本地靶场。参考 DVWA / Pikachu 的组织方式，含安装向导与通关教程。
 
-![](https://pic1.imgdb.cn/item/6904960b3203f7be00b9df68.png)
-![](https://pic1.imgdb.cn/item/690496213203f7be00b9e035.png)
+![](1.png)
+![](2.png)
+![](3.png)
 
 ## 功能概览
 
