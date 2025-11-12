@@ -102,7 +102,8 @@ Extended Modules (New):
 
 - Run in the project root directory:
 
-``` php -S 127.0.0.1:3000 -t .
+```
+php -S 127.0.0.1:3000 -t .
 
 ```
 
