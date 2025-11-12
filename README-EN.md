@@ -104,7 +104,6 @@ Extended Modules (New):
 
 ```
 php -S 127.0.0.1:3000 -t .
-
 ```
 
 - Then access `http://127.0.0.1:3000/setup/install.php` to complete the installation; afterwards, access the homepage `http://127.0.0.1:3000/`
